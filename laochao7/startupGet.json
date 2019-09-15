@@ -1,0 +1,12 @@
+[
+  {
+    "description": "这是不带参数的get请求",
+    "request": {
+      "uri": "/getDemo",
+      "method":"get"
+    },
+    "response": {
+      "text": "这是无参的返回结果"
+    }
+  }
+]

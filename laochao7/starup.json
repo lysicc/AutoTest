@@ -2,7 +2,7 @@
   {
     "description":"这是我的一个mock例子",
     "request":{
-      "url":"/demo"
+      "uri":"/demo"
     },
     "response":{
       "text":"这是我第一个moco返回例子"

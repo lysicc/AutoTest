@@ -2,50 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96b8e550-f981-452e-918b-b5f9eb45b5b8" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aventstack_extentreports_3_0_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_48.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_relevantcodes_extentreports_2_41_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vimalselvam_testng_extentsreport_1_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_23.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_8_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_3_0_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_0_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_0_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_sqlite_jdbc_3_8_11_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/laochao5/laochao5.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/laochao5/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/laochao5/src/main/java/com/Course/testng/BasicAnootation.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/laochao5/src/main/java/com/Course/testng/MultThread/MultTheadTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/laochao5/src/main/java/com/Course/testng/Suite/DependTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/laochao5/src/main/java/com/Course/testng/Suite/LoginTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/laochao5/src/main/java/com/Course/testng/Suite/PayTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/laochao5/src/main/java/com/Course/testng/Suite/SuitConfig.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/laochao5/src/main/java/com/Course/testng/TimeOutT/TimeOutTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/laochao5/src/main/java/com/Course/testng/paramter/DataProviderTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/laochao5/src/main/java/com/Course/testng/paramter/ParamTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/laochao5/src/main/java/com/Course/testng/paramter/ignoreTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/laochao5/src/main/resources/MultThead.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/laochao5/src/main/resources/Parameter.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/laochao5/src/main/resources/Suite.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/laochao6/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/laochao6/src/main/java/com/testng/extend/ExtentReportTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/laochao6/src/main/java/com/testng/extend/ExtentTestNGIReporterListener.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/laochao6/src/main/java/com/testng/extend/ExtentTestNGIReporterListenerOld.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/laochao6/src/main/resources/testng.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/laochao7/moco-runner-0.11.0-standalone.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/laochao7/starup.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/laochao7/基本操作说明" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/text.txt" afterPath="" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laochao7/startupGet.json" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/laochao7/starup.json" afterPath="$PROJECT_DIR$/laochao7/starup.json" />
+      <change beforePath="$PROJECT_DIR$/laochao7/基本操作说明" afterPath="$PROJECT_DIR$/laochao7/基本操作说明" />
     </list>
     <ignored path="$PROJECT_DIR$/laochao5/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -92,11 +52,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="基本操作说明" pinned="false" current-in-tab="true">
+      <file leaf-file-name="基本操作说明" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/laochao7/基本操作说明">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="57" lean-forward="false" selection-start-line="0" selection-start-column="57" selection-end-line="0" selection-end-column="57" />
+              <caret line="0" column="39" lean-forward="false" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -105,8 +65,18 @@
       <file leaf-file-name="starup.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/laochao7/starup.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+            <state relative-caret-position="207">
+              <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="startupGet.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/laochao7/startupGet.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -155,6 +125,7 @@
         <option value="$PROJECT_DIR$/laochao6/src/main/resources/testng.xml" />
         <option value="$PROJECT_DIR$/laochao7/starup.json" />
         <option value="$PROJECT_DIR$/laochao7/基本操作说明" />
+        <option value="$PROJECT_DIR$/laochao7/startupGet.json" />
       </list>
     </option>
   </component>
@@ -170,7 +141,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-9" />
     <option name="y" value="-9" />
     <option name="width" value="1023" />
@@ -191,9 +162,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -210,15 +181,15 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15241636" />
@@ -514,7 +485,12 @@
       <option name="presentableId" value="Default" />
       <updated>1568446738416</updated>
       <workItem from="1568446742648" duration="16629000" />
-      <workItem from="1568502480380" duration="4114000" />
+      <workItem from="1568502480380" duration="5145000" />
+      <workItem from="1568520950914" duration="530000" />
+      <workItem from="1568521528587" duration="457000" />
+      <workItem from="1568522070387" duration="401000" />
+      <workItem from="1568522504990" duration="530000" />
+      <workItem from="1568523081431" duration="3319000" />
     </task>
     <servers />
   </component>
@@ -551,39 +527,40 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20743000" />
+    <option name="totallyTimeSpent" value="27011000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6308962" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44103774" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32900944" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24292453" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37617925" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25375536" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2725322" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6308962" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -598,11 +575,194 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/laochao6/src/main/resources/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laochao7/starup.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laochao7/基本操作说明">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="60" lean-forward="true" selection-start-line="0" selection-start-column="60" selection-end-line="0" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laochao6/src/main/java/com/testng/extend/ExtentTestNGIReporterListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2254">
+          <caret line="110" column="46" lean-forward="false" selection-start-line="110" selection-start-column="46" selection-end-line="110" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laochao6/laochao6.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="38" lean-forward="false" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laochao6/src/main/resources/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laochao7/starup.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laochao7/基本操作说明">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="61" lean-forward="false" selection-start-line="0" selection-start-column="61" selection-end-line="0" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laochao6/src/main/java/com/testng/extend/ExtentTestNGIReporterListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2254">
+          <caret line="110" column="46" lean-forward="false" selection-start-line="110" selection-start-column="46" selection-end-line="110" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laochao6/laochao6.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="38" lean-forward="false" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laochao6/src/main/resources/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laochao7/starup.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laochao7/基本操作说明">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laochao6/src/main/java/com/testng/extend/ExtentTestNGIReporterListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2254">
+          <caret line="110" column="46" lean-forward="false" selection-start-line="110" selection-start-column="46" selection-end-line="110" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laochao6/laochao6.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="38" lean-forward="false" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laochao6/src/main/resources/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laochao7/starup.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laochao7/基本操作说明">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="71" lean-forward="true" selection-start-line="0" selection-start-column="71" selection-end-line="0" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laochao6/src/main/java/com/testng/extend/ExtentTestNGIReporterListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2254">
+          <caret line="110" column="46" lean-forward="false" selection-start-line="110" selection-start-column="46" selection-end-line="110" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laochao6/laochao6.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="38" lean-forward="false" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laochao6/src/main/resources/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laochao7/starup.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laochao7/基本操作说明">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="71" lean-forward="true" selection-start-line="0" selection-start-column="71" selection-end-line="0" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
           <caret line="13" column="14" lean-forward="false" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -610,7 +770,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
           <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -618,15 +777,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="17" column="39" lean-forward="true" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#184#185#0" expanded="false" />
-            <element signature="e#224#225#0" expanded="false" />
-            <element signature="e#259#260#0" expanded="false" />
-            <element signature="e#305#306#0" expanded="false" />
-            <element signature="e#340#341#0" expanded="false" />
-            <element signature="e#386#387#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -663,7 +813,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -671,7 +820,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -721,7 +869,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="13" column="14" lean-forward="false" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -729,7 +876,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -737,7 +883,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="6" column="41" lean-forward="false" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -745,7 +890,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -753,15 +897,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#184#185#0" expanded="false" />
-            <element signature="e#224#225#0" expanded="false" />
-            <element signature="e#259#260#0" expanded="false" />
-            <element signature="e#305#306#0" expanded="false" />
-            <element signature="e#340#341#0" expanded="false" />
-            <element signature="e#386#387#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -769,9 +904,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="186" column="40" lean-forward="true" selection-start-line="186" selection-start-column="40" selection-end-line="186" selection-end-column="40" />
-          <folding>
-            <marker date="1568505103749" expanded="false" signature="6231:6244" ph="&lt;~&gt;" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -799,18 +931,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laochao7/starup.json">
+    <entry file="file://$PROJECT_DIR$/laochao7/基本操作说明">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        <state relative-caret-position="0">
+          <caret line="0" column="39" lean-forward="false" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laochao7/基本操作说明">
+    <entry file="file://$PROJECT_DIR$/laochao7/starup.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="57" lean-forward="false" selection-start-line="0" selection-start-column="57" selection-end-line="0" selection-end-column="57" />
+        <state relative-caret-position="207">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laochao7/startupGet.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
           <folding />
         </state>
       </provider>
