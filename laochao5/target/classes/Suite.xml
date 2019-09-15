@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="test">
+    <test name="login">
+        <classes>
+            <class name="com.Course.testng.Suite.SuitConfig" />
+            <class name="com.Course.testng.Suite.LoginTest" />
+        </classes>
+    </test>
+    <test name="pay">
+        <classes>
+            <class name="com.Course.testng.Suite.SuitConfig" />
+            <class name="com.Course.testng.Suite.PayTest" />
+        </classes>
+    </test>
+
+</suite>
